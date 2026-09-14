@@ -10,7 +10,8 @@ label2id = {
     "sports": 4,
     "technology": 5,
     "politics": 6,
-    "education": 7
+    "education": 7, 
+    "health":8
 }
 
 id2label = {value: key for key, value in label2id.items()}
