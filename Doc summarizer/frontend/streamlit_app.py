@@ -5,8 +5,7 @@ from docx import Document
 from pypdf import PdfReader
 
 # 1. CONFIGURATION & CUSTOM CSS (For Visuals & Animations)
-st.set_page_config(page_title="Fake News Detector", layout="wide", page_icon="📰")
-
+st.set_page_config(page_title="Document Summarizer", page_icon="📄")
 # Header with Icon
 st.markdown("<h1 style='text-align: center; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);'>📰 Summarizer</h1>", unsafe_allow_html=True)
 
