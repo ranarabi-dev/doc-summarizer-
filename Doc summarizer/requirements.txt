@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+transformers
+torch
+keybert
+python-docx
+pypdf
+requests
+pandas
